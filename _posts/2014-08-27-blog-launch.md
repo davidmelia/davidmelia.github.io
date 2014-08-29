@@ -3,6 +3,6 @@ layout: post
 title: Launch
 ---
 
-Hopw you like my gnome appreciation site.
+Hope you like my gnome appreciation site.
 
 Thanks alot
