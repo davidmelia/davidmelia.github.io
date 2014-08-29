@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Gnome Fetish Website.
+tagline:          I prefer the red ones.
+url:              http://davidmelia.github.io
+paginate:         4
+baseurl:          /
+author:
+  name:           David Melia
+  url:            http://davidmelia.github.io
+
+# Custom vars
+version:          1.0.0
