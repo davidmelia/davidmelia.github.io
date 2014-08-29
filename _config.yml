@@ -10,7 +10,7 @@ title:            Gnome Fetish Website.
 tagline:          I prefer the red ones.
 url:              http://davidmelia.github.io
 paginate:         4
-baseurl:          /
+baseurl:          http://davidmelia.github.io
 author:
   name:           David Melia
   url:            http://davidmelia.github.io
